@@ -215,5 +215,5 @@ def main():
 
 
 if __name__ == "__main__":
-    # main()
+    main()
     export_db_to_csv('nancy_pelosi.csv')
